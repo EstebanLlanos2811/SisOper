@@ -1,0 +1,16 @@
+# Entrada N-1 # Este es un comentario
+#
+# Tamaño de la memoria
+1024
+# Cantidad de segmentos o particiones
+4
+# Tamanio de las particiones
+256, 256, 256, 256
+# Algoritmo: 1) First fit, 2) Best-Fit, 3) Worst-Fit
+1
+# proceso 18 solicita 180
+18, 180
+# proceso 23 solicita 222
+23, 222
+# proceso 92 solicita 222
+92, 76
